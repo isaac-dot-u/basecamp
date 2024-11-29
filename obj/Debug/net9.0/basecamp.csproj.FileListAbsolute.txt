@@ -1,0 +1,14 @@
+c:\Users\uluse\Desktop\basecamp\bin\Debug\net9.0\basecamp.exe
+c:\Users\uluse\Desktop\basecamp\bin\Debug\net9.0\basecamp.deps.json
+c:\Users\uluse\Desktop\basecamp\bin\Debug\net9.0\basecamp.runtimeconfig.json
+c:\Users\uluse\Desktop\basecamp\bin\Debug\net9.0\basecamp.dll
+c:\Users\uluse\Desktop\basecamp\bin\Debug\net9.0\basecamp.pdb
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.AssemblyInfoInputs.cache
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.AssemblyInfo.cs
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.csproj.CoreCompileInputs.cache
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.dll
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\refint\basecamp.dll
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.pdb
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\basecamp.genruntimeconfig.cache
+c:\Users\uluse\Desktop\basecamp\obj\Debug\net9.0\ref\basecamp.dll
